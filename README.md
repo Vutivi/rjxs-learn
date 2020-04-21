@@ -7,5 +7,5 @@ I got a clear understanding of observables, subjects, observers and rjxs operato
 
 # Installation
 
-```npm install```
-```npm start```
+* ```npm install```
+* ```npm start```

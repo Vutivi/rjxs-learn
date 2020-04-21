@@ -2,7 +2,7 @@
 
 I took this tutorial on Rxjs to understand the concept of Ngrx on Angular. I finally took some time to brush up my frontend skills during the Covid19 lockdown.
 
-I got a clear understanding of observables, subjects, observers and rjxs operators!
+I got a clear understanding of observables, subjects, observers and rxjs operators!
 
 
 # Installation
